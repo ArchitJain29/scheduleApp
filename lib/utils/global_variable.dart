@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:schedulera_app/screens/add_schdeule_screen.dart';
-import 'package:schedulera_app/screens/home_screen.dart';
 import 'package:schedulera_app/screens/schedule_screen.dart';
 import 'package:schedulera_app/widgets/post_schedule.dart';
 

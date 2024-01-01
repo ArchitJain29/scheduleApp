@@ -173,7 +173,6 @@ class _EditScheduleScreenState extends State<EditScheduleScreen> {
                 SizedBox(height: 32),
                 ElevatedButton(
                   onPressed: () {
-                    // Call a function to update the schedule in Firestore
                     updateSchedule(widget.scheduleId);
                   },
                   style: ElevatedButton.styleFrom(
